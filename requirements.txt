@@ -1,0 +1,15 @@
+langchain>=0.1.0
+python-dotenv>=1.0.0
+grok-api>=0.1.0
+faiss-cpu>=1.7.4
+PyMuPDF>=1.23.0
+pytesseract>=0.3.10
+python-docx>=0.8.11
+Pillow>=10.0.0
+sentence-transformers>=2.2.2
+streamlit>=1.32.0
+pandas>=2.0.0
+numpy>=1.24.0
+torch>=2.0.0
+transformers>=4.30.0
+langchain-groq>=0.1.0 

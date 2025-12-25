@@ -1,0 +1,6 @@
+{
+    "model": "llama-3.3-70b-versatile",
+    "grok_api_key": "your_groq_api_key_here",
+    "documents_folder": "sop_documents",
+    "session_memory_file": "session_memories.json"
+}
